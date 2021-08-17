@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    font-size: 16px;
+}
+p{
+    text-decoration-style: inherit;
+    font-size:14px ;
+    text-indent: inherit;
+    color: black;
+}
